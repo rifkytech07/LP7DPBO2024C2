@@ -14,5 +14,6 @@ Pada program ini terdiri dari 4 kelas java, yaitu:
 3. Jika burung menabrak pipa, maka permainan berakhir dengan muncul JFrame "Game Over"
 4. Jika user ingin memainkan game nya kembali, user bisa menekan keyboard "R"
 
-
+# Dokumentasi
+https://github.com/rifkytech07/LP7DPBO2024C2/assets/147624515/5280b916-57bd-4e9b-bdce-d2debfa5d2bc
 
